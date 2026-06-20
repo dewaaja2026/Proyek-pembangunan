@@ -1,0 +1,21 @@
+{
+  "short_name": "NotaBangunan",
+  "name": "Aplikasi Keuangan Bangunan",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#eef2f3",
+  "display": "standalone",
+  "theme-color": "#2F75B5",
+  "orientation": "portrait"
+}
